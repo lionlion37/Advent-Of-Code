@@ -2,8 +2,8 @@ if __name__ == '__main__':
     import argparse
     import os
 
-    from utils.template_generator import template_generator
-    from utils.download_input import download_input
+    from template_generator import template_generator
+    from download_input import download_input
 
     parser = argparse.ArgumentParser()
 
