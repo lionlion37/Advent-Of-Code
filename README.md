@@ -3,6 +3,10 @@ https://adventofcode.com
 
 My solutions for Advent of Code in Python.
 
+## Current Progress
+
+<!--- advent_readme_stars table --->
+
 utils/create_day.py downloads the respective input of the day and creates a .py template. To use it, the year has to be specified in download_input.py and template_generator.py. To access the user-specific input, a cookie value has to be set in download_input.py.
 
 ## Download input and create .py template
