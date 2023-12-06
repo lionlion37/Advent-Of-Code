@@ -3,8 +3,6 @@ https://adventofcode.com
 
 My solutions for Advent of Code in Python.
 
-## Current Progress
-
 <!--- advent_readme_stars table --->
 ## 2023 Results
 
