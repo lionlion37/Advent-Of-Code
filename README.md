@@ -15,9 +15,9 @@ My solutions for Advent of Code in Python.
 | [Day 5](https://adventofcode.com/2023/day/5) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
-utils/create_day.py downloads the respective input of the day and creates a .py template. To use it, the year has to be specified in download_input.py and template_generator.py. To access the user-specific input, a cookie value has to be set in download_input.py.
-
 ## Download input and create .py template
+
+utils/create_day.py downloads the respective input of the day and creates a .py template. To use it, the year has to be specified in download_input.py and template_generator.py. To access the user-specific input, a cookie value has to be set in download_input.py.
 
     python create_day.py --help
     usage: create_day.py [-h] day_number day_number_word puzzle_name_1 puzzle_name_2 int_input
