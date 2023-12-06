@@ -6,6 +6,16 @@ My solutions for Advent of Code in Python.
 ## Current Progress
 
 <!--- advent_readme_stars table --->
+## 2023 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ |
+| [Day 3](https://adventofcode.com/2023/day/3) | ⭐ | ⭐ |
+| [Day 4](https://adventofcode.com/2023/day/4) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2023/day/5) | ⭐ | ⭐ |
+<!--- advent_readme_stars table --->
 
 utils/create_day.py downloads the respective input of the day and creates a .py template. To use it, the year has to be specified in download_input.py and template_generator.py. To access the user-specific input, a cookie value has to be set in download_input.py.
 
