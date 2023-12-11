@@ -15,6 +15,7 @@ My solutions for Advent of Code in Python.
 | [Day 5](https://adventofcode.com/2023/day/5) | ⭐ | ⭐ |
 | [Day 6](https://adventofcode.com/2023/day/6) | ⭐ | ⭐ |
 | [Day 10](https://adventofcode.com/2023/day/10) | ⭐ | ⭐ |
+| [Day 11](https://adventofcode.com/2023/day/11) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
 ## Download input and create .py template
